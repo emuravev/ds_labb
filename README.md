@@ -1,4 +1,5 @@
 #rs.status() - 1 node
+
 {
 	"set" : "rs0",
 	"date" : ISODate("2019-11-01T13:13:04.318Z"),
